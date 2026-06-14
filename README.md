@@ -24,6 +24,16 @@ CyberSafeVR.2/
 - ProjectSettings/
 - UIElementsSchema/
 - UserSettings/
+
+### research
+
+- tutorial design for the VR project based on user personas analysis
+- tutorial design to help solve learning anxiety based on Persona-Gen tool
+- Understanding Cyber Scams Through Human Friction: A Qualitative Alignment Matrix
+- a survey regarding 24 Deakin students' well-being and stress levels in their life, which might lead to students’ vulnerabilities and make them targets for cyber-scams.
+- a data analysis based on the survey to understand how students’ financial status, academic pressure and supporting system affect their cyber-safe condition.
+- 12 students' contact details who are willing to take part in the Cyber-safe VR experience later next trimester.
+ 
 ```
 ### Folder and Asset Organization 
 All assets must be placed in centralized folders under `Assets/`:
@@ -44,6 +54,7 @@ Assets/
 - Textures/           Textures used in materials or models
 - UI/                 User interface elements
 - TextMeshPro/        TextMeshPro-related assets
+- research/
 ---
 **Asset Placement Rule:** Keep shared assets (e.g., CityPeople, OfficeProps) in the root `Assets/` folder.
 
